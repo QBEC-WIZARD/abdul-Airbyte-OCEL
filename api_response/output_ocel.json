@@ -1,0 +1,111 @@
+{
+  "Trade": {
+    "name": "Trade",
+    "activities": [
+      "Trade Initiated",
+      "Trade Execution",
+      "Trade Validation",
+      "Trade Matching",
+      "Trade Confirmation",
+      "Trade Allocation",
+      "Trade Reconciliation",
+      "Final Settlement"
+    ],
+    "attributes": [
+      "booking_system",
+      "case_id",
+      "client_type",
+      "currency_pair",
+      "delta",
+      "gamma",
+      "limit_usage",
+      "notional_amount",
+      "option_type",
+      "premium",
+      "risk_score",
+      "strike_price",
+      "theta",
+      "trading_strategy",
+      "vega"
+    ],
+    "relationships": [
+      "Client",
+      "Collateral",
+      "MarketData",
+      "Position"
+    ]
+  },
+  "Client": {
+    "name": "Client",
+    "activities": [
+      "Client Limit Validation",
+      "Credit Check",
+      "KYC Refresh Check",
+      "ISDA Master Agreement Check"
+    ],
+    "attributes": [
+      "case_id",
+      "client_type"
+    ],
+    "relationships": [
+      "Collateral",
+      "Trade"
+    ]
+  },
+  "Position": {
+    "name": "Position",
+    "activities": [
+      "Position Reconciliation",
+      "Risk Assessment"
+    ],
+    "attributes": [
+      "case_id",
+      "currency_pair",
+      "limit_usage",
+      "option_type",
+      "risk_score"
+    ],
+    "relationships": [
+      "MarketData",
+      "Trade"
+    ]
+  },
+  "MarketData": {
+    "name": "MarketData",
+    "activities": [
+      "Market Data Validation",
+      "Volatility Surface Analysis",
+      "Greeks Calculation"
+    ],
+    "attributes": [
+      "currency_pair",
+      "delta",
+      "gamma",
+      "option_type",
+      "theta",
+      "vega"
+    ],
+    "relationships": [
+      "Position",
+      "Trade"
+    ]
+  },
+  "Collateral": {
+    "name": "Collateral",
+    "activities": [
+      "Collateral Management",
+      "Premium Settlement",
+      "Settlement Instructions",
+      "CSA Verification"
+    ],
+    "attributes": [
+      "case_id",
+      "notional_amount",
+      "premium"
+    ],
+    "relationships": [
+      "Client",
+      "Trade"
+    ]
+  }
+}
