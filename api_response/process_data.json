@@ -45,12 +45,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_1",
-          "type": "MarketData"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -62,12 +62,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_1",
-          "type": "Trade"
+          "id": "Market_Case_1",
+          "type": "Market"
         }
       ]
     },
@@ -147,12 +147,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_1",
-          "type": "Trade"
+          "id": "Market_Case_1",
+          "type": "Market"
         }
       ]
     },
@@ -164,12 +164,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Position"
+        "object_type": "Settlement"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_1",
-          "type": "Position"
+          "id": "Settlement_Case_1",
+          "type": "Settlement"
         }
       ]
     },
@@ -198,12 +198,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1",
-          "type": "Collateral"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -215,12 +215,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1",
-          "type": "Collateral"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -232,12 +232,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Position"
+        "object_type": "Risk"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_1",
-          "type": "Position"
+          "id": "Risk_Case_1",
+          "type": "Risk"
         }
       ]
     },
@@ -266,12 +266,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1",
-          "type": "Client"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -283,12 +283,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_1",
-          "type": "MarketData"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -300,12 +300,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1",
-          "type": "Client"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -385,12 +385,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1",
-          "type": "Collateral"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -419,12 +419,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1",
-          "type": "Client"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -453,12 +453,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1",
-          "type": "Client"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -504,12 +504,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_1",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1",
-          "type": "Collateral"
+          "id": "Trade_Case_1",
+          "type": "Trade"
         }
       ]
     },
@@ -538,12 +538,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_10",
-          "type": "MarketData"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -555,12 +555,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_10",
-          "type": "MarketData"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -572,12 +572,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_10",
-          "type": "Collateral"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -589,12 +589,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_10",
-          "type": "Trade"
+          "id": "Market_Case_10",
+          "type": "Market"
         }
       ]
     },
@@ -657,12 +657,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_10",
-          "type": "Trade"
+          "id": "Market_Case_10",
+          "type": "Market"
         }
       ]
     },
@@ -674,12 +674,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_10",
-          "type": "MarketData"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -776,12 +776,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_10",
-          "type": "Client"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -793,12 +793,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_10",
-          "type": "Collateral"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -878,12 +878,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Position"
+        "object_type": "Settlement"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_10",
-          "type": "Position"
+          "id": "Settlement_Case_10",
+          "type": "Settlement"
         }
       ]
     },
@@ -895,12 +895,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Position"
+        "object_type": "Risk"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_10",
-          "type": "Position"
+          "id": "Risk_Case_10",
+          "type": "Risk"
         }
       ]
     },
@@ -912,12 +912,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_10",
-          "type": "Collateral"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -929,12 +929,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_10",
-          "type": "Client"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -963,12 +963,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_10",
-          "type": "Client"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -980,12 +980,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_10",
-          "type": "Client"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -1031,12 +1031,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_10",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_10",
-          "type": "Collateral"
+          "id": "Trade_Case_10",
+          "type": "Trade"
         }
       ]
     },
@@ -1065,12 +1065,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_100",
-          "type": "MarketData"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1099,12 +1099,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_100",
-          "type": "Trade"
+          "id": "Market_Case_100",
+          "type": "Market"
         }
       ]
     },
@@ -1116,12 +1116,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_100",
-          "type": "MarketData"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1133,12 +1133,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Position"
+        "object_type": "Settlement"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_100",
-          "type": "Position"
+          "id": "Settlement_Case_100",
+          "type": "Settlement"
         }
       ]
     },
@@ -1218,12 +1218,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_100",
-          "type": "Trade"
+          "id": "Market_Case_100",
+          "type": "Market"
         }
       ]
     },
@@ -1320,12 +1320,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Position"
+        "object_type": "Risk"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_100",
-          "type": "Position"
+          "id": "Risk_Case_100",
+          "type": "Risk"
         }
       ]
     },
@@ -1337,12 +1337,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_100",
-          "type": "MarketData"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1354,12 +1354,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_100",
-          "type": "Collateral"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1388,12 +1388,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_100",
-          "type": "Collateral"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1422,12 +1422,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_100",
-          "type": "Client"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1439,12 +1439,12 @@
       "ocel:attributes": {
         "resource": "Client Desk D",
         "case_id": "Case_100",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_100",
-          "type": "Collateral"
+          "id": "Trade_Case_100",
+          "type": "Trade"
         }
       ]
     },
@@ -1524,12 +1524,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_1000",
-          "type": "MarketData"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1541,12 +1541,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_1000",
-          "type": "MarketData"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1558,12 +1558,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_1000",
-          "type": "Trade"
+          "id": "Market_Case_1000",
+          "type": "Market"
         }
       ]
     },
@@ -1575,12 +1575,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Trade"
+        "object_type": "Market"
       },
       "ocel:objects": [
         {
-          "id": "Trade_Case_1000",
-          "type": "Trade"
+          "id": "Market_Case_1000",
+          "type": "Market"
         }
       ]
     },
@@ -1643,12 +1643,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "MarketData"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "MarketData_Case_1000",
-          "type": "MarketData"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1660,12 +1660,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1000",
-          "type": "Collateral"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1677,12 +1677,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1000",
-          "type": "Client"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1728,12 +1728,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1000",
-          "type": "Collateral"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1762,12 +1762,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1000",
-          "type": "Collateral"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1813,12 +1813,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1000",
-          "type": "Client"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1830,12 +1830,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1000",
-          "type": "Client"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1847,12 +1847,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Client"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Client_Case_1000",
-          "type": "Client"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1898,12 +1898,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Position"
+        "object_type": "Risk"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_1000",
-          "type": "Position"
+          "id": "Risk_Case_1000",
+          "type": "Risk"
         }
       ]
     },
@@ -1915,12 +1915,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Position"
+        "object_type": "Settlement"
       },
       "ocel:objects": [
         {
-          "id": "Position_Case_1000",
-          "type": "Position"
+          "id": "Settlement_Case_1000",
+          "type": "Settlement"
         }
       ]
     },
@@ -1932,12 +1932,12 @@
       "ocel:attributes": {
         "resource": "Hedge Desk C",
         "case_id": "Case_1000",
-        "object_type": "Collateral"
+        "object_type": "Trade"
       },
       "ocel:objects": [
         {
-          "id": "Collateral_Case_1000",
-          "type": "Collateral"
+          "id": "Trade_Case_1000",
+          "type": "Trade"
         }
       ]
     },
@@ -1966,364 +1966,131 @@
       "ocel:attributes": {
         "activity": "Trade Initiated",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
           "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "notional_amount"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Execution",
+      "ocel:id": "Trade_Trade Executed",
       "ocel:type": "Trade",
       "ocel:attributes": {
-        "activity": "Trade Execution",
+        "activity": "Trade Executed",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
           "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "notional_amount"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Validation",
+      "ocel:id": "Trade_Trade Allocated",
       "ocel:type": "Trade",
       "ocel:attributes": {
-        "activity": "Trade Validation",
+        "activity": "Trade Allocated",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
           "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "notional_amount"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Matching",
+      "ocel:id": "Trade_Trade Settled",
       "ocel:type": "Trade",
       "ocel:attributes": {
-        "activity": "Trade Matching",
+        "activity": "Trade Settled",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
           "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "notional_amount"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Confirmation",
+      "ocel:id": "Trade_Trade Canceled",
       "ocel:type": "Trade",
       "ocel:attributes": {
-        "activity": "Trade Confirmation",
+        "activity": "Trade Canceled",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
           "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "notional_amount"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Allocation",
-      "ocel:type": "Trade",
+      "ocel:id": "Market_Trade Executed",
+      "ocel:type": "Market",
       "ocel:attributes": {
-        "activity": "Trade Allocation",
+        "activity": "Trade Executed",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
-          "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "currency_pair"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Trade Reconciliation",
-      "ocel:type": "Trade",
+      "ocel:id": "Market_Quote Requested",
+      "ocel:type": "Market",
       "ocel:attributes": {
-        "activity": "Trade Reconciliation",
+        "activity": "Quote Requested",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
-          "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "currency_pair"
         ]
       }
     },
     {
-      "ocel:id": "Trade_Final Settlement",
-      "ocel:type": "Trade",
+      "ocel:id": "Market_Quote Provided",
+      "ocel:type": "Market",
       "ocel:attributes": {
-        "activity": "Final Settlement",
+        "activity": "Quote Provided",
         "attributes": [
-          "booking_system",
-          "case_id",
-          "client_type",
-          "currency_pair",
-          "delta",
-          "gamma",
-          "limit_usage",
-          "notional_amount",
-          "option_type",
-          "premium",
-          "risk_score",
-          "strike_price",
-          "theta",
-          "trading_strategy",
-          "vega"
+          "currency_pair"
         ]
       }
     },
     {
-      "ocel:id": "Client_Client Limit Validation",
-      "ocel:type": "Client",
+      "ocel:id": "Risk_Trade Allocated",
+      "ocel:type": "Risk",
       "ocel:attributes": {
-        "activity": "Client Limit Validation",
+        "activity": "Trade Allocated",
         "attributes": [
-          "case_id",
-          "client_type"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Client_Credit Check",
-      "ocel:type": "Client",
-      "ocel:attributes": {
-        "activity": "Credit Check",
-        "attributes": [
-          "case_id",
-          "client_type"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Client_KYC Refresh Check",
-      "ocel:type": "Client",
-      "ocel:attributes": {
-        "activity": "KYC Refresh Check",
-        "attributes": [
-          "case_id",
-          "client_type"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Client_ISDA Master Agreement Check",
-      "ocel:type": "Client",
-      "ocel:attributes": {
-        "activity": "ISDA Master Agreement Check",
-        "attributes": [
-          "case_id",
-          "client_type"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Position_Position Reconciliation",
-      "ocel:type": "Position",
-      "ocel:attributes": {
-        "activity": "Position Reconciliation",
-        "attributes": [
-          "case_id",
-          "currency_pair",
-          "limit_usage",
-          "option_type",
           "risk_score"
         ]
       }
     },
     {
-      "ocel:id": "Position_Risk Assessment",
-      "ocel:type": "Position",
+      "ocel:id": "Risk_Risk Assessment",
+      "ocel:type": "Risk",
       "ocel:attributes": {
         "activity": "Risk Assessment",
         "attributes": [
-          "case_id",
-          "currency_pair",
-          "limit_usage",
-          "option_type",
           "risk_score"
         ]
       }
     },
     {
-      "ocel:id": "MarketData_Market Data Validation",
-      "ocel:type": "MarketData",
+      "ocel:id": "Settlement_Trade Settled",
+      "ocel:type": "Settlement",
       "ocel:attributes": {
-        "activity": "Market Data Validation",
+        "activity": "Trade Settled",
         "attributes": [
-          "currency_pair",
-          "delta",
-          "gamma",
-          "option_type",
-          "theta",
-          "vega"
+          "settlement_amount"
         ]
       }
     },
     {
-      "ocel:id": "MarketData_Volatility Surface Analysis",
-      "ocel:type": "MarketData",
+      "ocel:id": "Settlement_Position Reconciliation",
+      "ocel:type": "Settlement",
       "ocel:attributes": {
-        "activity": "Volatility Surface Analysis",
+        "activity": "Position Reconciliation",
         "attributes": [
-          "currency_pair",
-          "delta",
-          "gamma",
-          "option_type",
-          "theta",
-          "vega"
-        ]
-      }
-    },
-    {
-      "ocel:id": "MarketData_Greeks Calculation",
-      "ocel:type": "MarketData",
-      "ocel:attributes": {
-        "activity": "Greeks Calculation",
-        "attributes": [
-          "currency_pair",
-          "delta",
-          "gamma",
-          "option_type",
-          "theta",
-          "vega"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Collateral_Collateral Management",
-      "ocel:type": "Collateral",
-      "ocel:attributes": {
-        "activity": "Collateral Management",
-        "attributes": [
-          "case_id",
-          "notional_amount",
-          "premium"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Collateral_Premium Settlement",
-      "ocel:type": "Collateral",
-      "ocel:attributes": {
-        "activity": "Premium Settlement",
-        "attributes": [
-          "case_id",
-          "notional_amount",
-          "premium"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Collateral_Settlement Instructions",
-      "ocel:type": "Collateral",
-      "ocel:attributes": {
-        "activity": "Settlement Instructions",
-        "attributes": [
-          "case_id",
-          "notional_amount",
-          "premium"
-        ]
-      }
-    },
-    {
-      "ocel:id": "Collateral_CSA Verification",
-      "ocel:type": "Collateral",
-      "ocel:attributes": {
-        "activity": "CSA Verification",
-        "attributes": [
-          "case_id",
-          "notional_amount",
-          "premium"
+          "settlement_amount"
         ]
       }
     }
   ],
   "ocel:object-types": [
     "Trade",
-    "Client",
-    "Position",
-    "MarketData",
-    "Collateral"
+    "Market",
+    "Risk",
+    "Settlement"
   ],
   "ocel:global-log": {
     "ocel:attribute-names": []

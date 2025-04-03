@@ -3625,3 +3625,18 @@
 2025-04-03 19:15:14,262 - convert_to_ocel | START: 1743687914.2623363
 2025-04-03 19:15:14,273 - convert_to_ocel | END: 1743687914.273429 | Duration: 0.011093 seconds
 2025-04-03 19:15:14,281 - save_ocel | END: 1743687914.281984 | Duration: 0.020651 seconds
+2025-04-03 19:34:28,899 - __init__ OCPMAnalyzer | START: 1743689068.899787
+2025-04-03 19:34:28,899 - _preprocess_event_log | START: 1743689068.899787
+2025-04-03 19:34:28,941 - _preprocess_event_log | END: 1743689068.94162 | Duration: 0.041833 seconds
+2025-04-03 19:34:28,941 - _initialize_object_types | START: 1743689068.94162
+2025-04-03 19:34:28,968 - _get_default_object_types | START: 1743689068.9689186
+2025-04-03 19:34:28,968 - _get_default_object_types | END: 1743689068.9689186 | Duration: 0.000000 seconds
+2025-04-03 19:34:28,968 - _create_activity_mapping | START: 1743689068.9689186
+2025-04-03 19:34:28,972 - _create_activity_mapping | END: 1743689068.9729812 | Duration: 0.004063 seconds
+2025-04-03 19:34:28,973 - convert_to_ocpm_format | START: 1743689068.9739895
+2025-04-03 19:34:28,979 - convert_to_ocpm_format | END: 1743689068.9793365 | Duration: 0.005347 seconds
+2025-04-03 19:34:28,985 - __init__ OCPMAnalyzer | END: 1743689068.9850957 | Duration: 0.085309 seconds
+2025-04-03 19:34:28,986 - save_ocel | START: 1743689068.9865465
+2025-04-03 19:34:28,986 - convert_to_ocel | START: 1743689068.9865465
+2025-04-03 19:34:28,997 - convert_to_ocel | END: 1743689068.9961164 | Duration: 0.009570 seconds
+2025-04-03 19:34:29,002 - save_ocel | END: 1743689069.0024347 | Duration: 0.015888 seconds
