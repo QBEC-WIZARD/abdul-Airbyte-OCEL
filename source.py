@@ -7,14 +7,15 @@ from airbyte_cdk.models import AirbyteMessage, AirbyteRecordMessage, Type, Airby
 from computation.Outlier_module.ocpm_analysis import OCPMAnalyzer
 from destination import LocalOCELDestination
 
+# ✅ File expected at the root of the repo
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  
-EVENT_LOG_PATH = os.path.join(BASE_DIR, "data", "fx_trade_log_small.csv")
+EVENT_LOG_PATH = os.path.join(BASE_DIR, "fx_trade_log_small.csv")
 
 
 def load_event_log():
     """Load event log from a CSV file."""
     if not os.path.exists(EVENT_LOG_PATH):
-        raise FileNotFoundError("❌ Event log not found. Run Process Discovery first.")
+        raise FileNotFoundError("❌ Event log not found. Make sure fx_trade_log_small.csv is in the root directory.")
 
     try:
         df = pd.read_csv(EVENT_LOG_PATH, sep=";")  
