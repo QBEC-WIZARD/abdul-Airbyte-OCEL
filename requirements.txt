@@ -4,7 +4,6 @@ requests
 pyvis
 jsonschema
 workalendar
-pyarrow
 scikit-learn
 polars
 openai
@@ -17,7 +16,6 @@ numpy
 pandas
 deprecation
 networkx
-streamlit
 plotly
 spacy
 PyPDF2
@@ -34,12 +32,8 @@ openai
 azure.identity
 azure-ai-inference
 kaleido
-neo4j-driver
-fastapi
-uvicorn
 pydantic
 python-multipart
-pyaudio
 airbyte-cdk
 airbyte
 
