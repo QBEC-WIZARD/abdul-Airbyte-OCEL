@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: connector
-          image: airbyteacrabduljabbarirmai.azurecr.io/airbyte-custom-connector:v1
+          image: abduljabbaracrirmaiairbyte.azurecr.io/airbyte-custom-connector:v1
           imagePullPolicy: Always
           volumeMounts:
             - name: data-volume
