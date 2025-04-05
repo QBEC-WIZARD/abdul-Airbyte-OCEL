@@ -1,4 +1,3 @@
-# deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -20,6 +19,8 @@ spec:
         - name: connector
           image: abduljabbaracrirmaiairbyte.azurecr.io/airbyte-custom-connector:v1
           imagePullPolicy: Always
+          command: ["sleep"]
+          args: ["3600"]
           volumeMounts:
             - name: data-volume
               mountPath: /app/data
@@ -32,6 +33,7 @@ spec:
       volumes:
         - name: data-volume
           emptyDir: {}
+
 
 
 
