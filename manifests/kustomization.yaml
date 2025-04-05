@@ -1,4 +1,14 @@
-resources:
-  - namespace.yaml
-  - rbac-flux.yaml
-  - deployment.yaml
+apiVersion: kustomize.toolkit.fluxcd.io/v1
+kind: Kustomization
+metadata:
+  name: abdul-gitops-airbyte-abdul-kustomization
+  namespace: flux-system
+spec:
+  interval: 5m0s
+  path: ./manifests
+  prune: true
+  sourceRef:
+    kind: GitRepository
+    name: abdul-gitops-airbyte
+  targetNamespace: airbyte
+
