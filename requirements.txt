@@ -15,7 +15,6 @@ plotly
 pm4py==2.7.2
 polars
 psutil==5.9.5
-pydep
 pydot
 pyemd
 pygame
