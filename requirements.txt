@@ -9,7 +9,6 @@ scikit-learn
 polars
 openai
 pyemd
-pyaudio
 pydub
 pygame
 pygetwindow
