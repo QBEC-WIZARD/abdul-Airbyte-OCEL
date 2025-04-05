@@ -1,7 +1,9 @@
+# deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: airbyte-custom-connector
+  namespace: airbyte
   labels:
     app: airbyte-custom-connector
 spec:
@@ -15,21 +17,22 @@ spec:
         app: airbyte-custom-connector
     spec:
       containers:
-      - name: connector
-        image: airbyteacrabduljabbarirmai.azurecr.io/airbyte-custom-connector:v1
-        imagePullPolicy: Always
-        volumeMounts:
-        - name: data-volume
-          mountPath: /app/data
-        ports:
-        - containerPort: 80
-        env:
-        - name: AZURE_OPENAI_KEY
-          valueFrom:
-            secretKeyRef:
-              name: openai-secret
-              key: AZURE_OPENAI_KEY
+        - name: connector
+          image: airbyteacrabduljabbarirmai.azurecr.io/airbyte-custom-connector:v1
+          imagePullPolicy: Always
+          volumeMounts:
+            - name: data-volume
+              mountPath: /app/data
+          env:
+            - name: AZURE_OPENAI_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: openai-secret
+                  key: AZURE_OPENAI_KEY
       volumes:
-      - name: data-volume
-        emptyDir: {}
+        - name: data-volume
+          emptyDir: {}
+
+
+
 
