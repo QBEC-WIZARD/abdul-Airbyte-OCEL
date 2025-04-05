@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install -r requirements.txt
+# Upgrade pip and install dependencies
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
 CMD ["python", "source.py"]
