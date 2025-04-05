@@ -1,5 +1,4 @@
 resources:
+  - namespace.yaml
   - rbac-flux.yaml
   - deployment.yaml
-  - service.yaml
-  # add others as needed
